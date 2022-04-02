@@ -1,2 +1,2 @@
-# covid19cardgame
+# Covid-19CardGame
  
