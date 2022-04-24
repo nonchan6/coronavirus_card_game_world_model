@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -98,9 +99,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: 16
-    mipBias: -100
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -628,6 +629,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Stone-GreenP_2k_17: 21300036
+      Stone-GreenP_2k_13: 21300042
+      Stone-GreenP_2k_21: 21300026
+      Stone-GreenP_2k_18: 21300034
+      Stone-GreenP_2k_4: 21300002
+      Stone-GreenP_2k_3: 21300010
+      Stone-GreenP_2k_1: 21300006
+      Stone-GreenP_2k_14: 21300014
+      Stone-GreenP_2k_5: 21300004
+      Stone-GreenP_2k_15: 21300016
+      Stone-GreenP_2k_0: 21300000
+      Stone-GreenP_2k_9: 21300020
+      Stone-GreenP_2k_2: 21300008
+      Stone-GreenP_2k_10: 21300018
+      Stone-GreenP_2k_16: 21300022
+      Stone-GreenP_2k_8: 21300030
+      Stone-GreenP_2k_12: 21300040
+      Stone-GreenP_2k_20: 21300024
+      Stone-GreenP_2k_7: 21300028
+      Stone-GreenP_2k_6: 21300012
+      Stone-GreenP_2k_19: 21300038
+      Stone-GreenP_2k_11: 21300032
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

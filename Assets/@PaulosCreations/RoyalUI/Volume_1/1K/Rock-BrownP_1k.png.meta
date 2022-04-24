@@ -141,6 +141,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -149,9 +150,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: 16
-    mipBias: -100
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -679,6 +680,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Rock-BrownP_1k_17: 21300020
+      Rock-BrownP_1k_13: 21300076
+      Rock-BrownP_1k_14: 21300054
+      Rock-BrownP_1k_18: 21300056
+      Rock-BrownP_1k_2: 21300044
+      Rock-BrownP_1k_6: 21300012
+      Rock-BrownP_1k_8: 21300074
+      Rock-BrownP_1k_12: 21300068
+      Rock-BrownP_1k_20: 21300058
+      Rock-BrownP_1k_0: 21300000
+      Rock-BrownP_1k_3: 21300046
+      Rock-BrownP_1k_1: 21300052
+      Rock-BrownP_1k_4: 21300048
+      Rock-BrownP_1k_11: 21300066
+      Rock-BrownP_1k_16: 21300022
+      Rock-BrownP_1k_10: 21300070
+      Rock-BrownP_1k_9: 21300072
+      Rock-BrownP_1k_19: 21300038
+      Rock-BrownP_1k_15: 21300060
+      Rock-BrownP_1k_21: 21300062
+      Rock-BrownP_1k_7: 21300064
+      Rock-BrownP_1k_5: 21300050
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

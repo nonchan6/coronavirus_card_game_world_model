@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Card3
   m_EditorClassIdentifier: 
   name: Black Kuma
-  hp: 4
-  at: 4
-  cost: 4
+  label: 2
+  hp: 5
+  at: 3
+  cost: 3
   icon: {fileID: 21300000, guid: 6990679ab42e72b4bbd5445399932a59, type: 3}
   ability: 0
-  spell: 3
+  spell: 0

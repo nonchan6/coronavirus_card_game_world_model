@@ -17,7 +17,7 @@ public class Audio : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (UnityEngine.Input.GetMouseButtonDown(0))
         {
             audioSource.PlayOneShot(BattleTheme1_demo);
         }

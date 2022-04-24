@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// ƒJ[ƒhƒf[ƒ^‚»‚Ì‚à‚Ì‚Æ‚»‚Ìˆ—
+// ã‚«ãƒ¼ãƒ‰ãƒ‡ãƒ¼ã‚¿ãã®ã‚‚ã®ã¨ãã®å‡¦ç†
 public class CardModel
 {
     public string name;
+    public int label;
     public int hp;
     public int at;
     public int cost;
@@ -22,6 +23,7 @@ public class CardModel
     {
         CardEntity cardEntity = Resources.Load<CardEntity>("CardEntityList/Card" + cardID);
         name = cardEntity.name;
+        label = cardEntity.label;
         hp = cardEntity.hp;
         at = cardEntity.at;
         cost = cardEntity.cost;
@@ -42,7 +44,7 @@ public class CardModel
             isAlive = false;
         }
     }
-    // ©•ª‚ğ‰ñ•œ‚·‚é
+    // è‡ªåˆ†ã‚’å›å¾©ã™ã‚‹
     void RecoveryHP(int point)
     {
         hp += point;
@@ -52,7 +54,7 @@ public class CardModel
     {
         card.model.Damage(at);
     }
-    // card‚ğ‰ñ•œ‚³‚¹‚é
+    // cardã‚’å›å¾©ã•ã›ã‚‹
     public void Heal(CardController card)
     {
         card.model.RecoveryHP(at);

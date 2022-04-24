@@ -81,6 +81,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -544,6 +545,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Flash_04_color2 8: -2813231509068135719
+      Flash_04_color2 3: -5925569635845769544
+      Flash_04_color2 5: 449987054166949820
+      Flash_04_color2 13: -8246621363543962980
+      Flash_04_color2 6: -582868044416929523
+      Flash_04_color2 0: 7526541052404490080
+      Flash_04_color2 18: -7266146355808320647
+      Flash_04_color2 11: 8116633386252544986
+      Flash_04_color2 1: 655144764539522140
+      Flash_04_color2 10: -9179744983940432932
+      Flash_04_color2 9: 8072365966230946993
+      Flash_04_color2 15: -1139493783100724427
+      Flash_04_color2 17: -7933980311510399526
+      Flash_04_color2 4: 4539587195301429427
+      Flash_04_color2 7: -8446789128557362971
+      Flash_04_color2 12: -3142711090725889178
+      Flash_04_color2 16: 6931457679511683539
+      Flash_04_color2 14: -3146633065475125565
+      Flash_04_color2 2: 6415184409714493401
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

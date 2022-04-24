@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -232,6 +233,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Flash_02_domo 1: 3363131925054667913
+      Flash_02_domo 4: -1394260956861063452
+      Flash_02_domo 3: -5808949879168704883
+      Flash_02_domo 0: 2874840520901428647
+      Flash_02_domo 2: -5840869367773086371
+      Flash_02_domo 5: -2624633535431159077
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

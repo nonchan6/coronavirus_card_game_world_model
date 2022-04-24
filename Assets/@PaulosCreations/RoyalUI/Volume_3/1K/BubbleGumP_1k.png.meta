@@ -105,6 +105,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -113,9 +114,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -643,6 +644,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BubbleGumP_1k_9: 21300018
+      BubbleGumP_1k_13: 21300026
+      BubbleGumP_1k_16: 21300038
+      BubbleGumP_1k_0: 21300002
+      BubbleGumP_1k_5: 21300010
+      BubbleGumP_1k_12: 21300024
+      BubbleGumP_1k_3: 21300006
+      BubbleGumP_1k_17: 21300040
+      BubbleGumP_1k_21: 21300050
+      BubbleGumP_1k_6: 21300014
+      BubbleGumP_1k_2: 21300004
+      BubbleGumP_1k_18: 21300036
+      BubbleGumP_1k_4: 21300008
+      BubbleGumP_1k_14: 21300046
+      BubbleGumP_1k_20: 21300048
+      BubbleGumP_1k_11: 21300030
+      BubbleGumP_1k_7: 21300020
+      BubbleGumP_1k_19: 21300044
+      BubbleGumP_1k_15: 21300000
+      BubbleGumP_1k_1: 21300012
+      BubbleGumP_1k_8: 21300016
+      BubbleGumP_1k_10: 21300028
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

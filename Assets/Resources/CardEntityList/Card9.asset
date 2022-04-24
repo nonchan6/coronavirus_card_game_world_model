@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Card9
   m_EditorClassIdentifier: 
   name: Covid
+  label: 8
   hp: 3
   at: 1
   cost: 1

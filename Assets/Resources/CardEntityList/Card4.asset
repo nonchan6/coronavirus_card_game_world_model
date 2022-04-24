@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Card4
   m_EditorClassIdentifier: 
   name: Vaccine
+  label: 3
   hp: 5
   at: 1
   cost: 2
   icon: {fileID: 21300000, guid: 60eb44719fec7c242a153d1bb47ace7d, type: 3}
-  ability: 2
+  ability: 0
   spell: 0

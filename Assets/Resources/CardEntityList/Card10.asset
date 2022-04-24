@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Card10
   m_EditorClassIdentifier: 
   name: Zodiac Covid
+  label: 9
   hp: 4
   at: 2
   cost: 2

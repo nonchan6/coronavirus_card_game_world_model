@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Card11
   m_EditorClassIdentifier: 
   name: Trident Covid
+  label: 10
   hp: 5
   at: 3
   cost: 3
-  icon: {fileID: 21300000, guid: dd9a0dacb16515842a5e11a58b01cb51, type: 3}
+  icon: {fileID: 21300000, guid: 726ee823402563e409b0f26e108a7747, type: 3}
   ability: 0
-  spell: 1
+  spell: 0

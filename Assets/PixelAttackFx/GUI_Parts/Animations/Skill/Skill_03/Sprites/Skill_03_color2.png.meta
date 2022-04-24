@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -232,6 +233,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Skill_03_color2 2: -2614666896563089540
+      Skill_03_color2 1: 8940256515487472611
+      Skill_03_color2 0: -3394693321718904291
+      Skill_03_color2 3: 317813115591358203
+      Skill_03_color2 4: 3672598421251921638
+      Skill_03_color2 5: 591403423356797820
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

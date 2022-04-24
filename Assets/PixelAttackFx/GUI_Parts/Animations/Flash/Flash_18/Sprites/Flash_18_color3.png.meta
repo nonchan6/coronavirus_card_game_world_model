@@ -39,6 +39,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -208,6 +209,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Flash_18_color3 2: -8578058737301245146
+      Flash_18_color3 1: 8587421279961867947
+      Flash_18_color3 3: -5887914701631620821
+      Flash_18_color3 0: 6653255175800247698
+      Flash_18_color3 4: 9100776636559577800
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

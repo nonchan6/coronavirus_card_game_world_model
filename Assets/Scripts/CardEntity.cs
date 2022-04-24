@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "CardEntity", menuName = "Create CardEntity")]
-// カードデータそのもの
+// 繧ｫ繝ｼ繝峨ョ繝ｼ繧ｿ縺昴�ｮ繧ゅ�ｮ
 public class CardEntity : ScriptableObject
 {
     public new string name;
+    public int label;
     public int hp;
     public int at;
     public int cost;

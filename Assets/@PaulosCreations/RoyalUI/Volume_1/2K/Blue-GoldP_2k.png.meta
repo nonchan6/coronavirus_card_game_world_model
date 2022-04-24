@@ -123,6 +123,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -131,9 +132,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: 16
-    mipBias: -100
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -661,6 +662,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Blue-GoldP_2k_4: 21300048
+      Blue-GoldP_2k_20: 21300058
+      Blue-GoldP_2k_12: 21300022
+      Blue-GoldP_2k_18: 21300056
+      Blue-GoldP_2k_2: 21300044
+      Blue-GoldP_2k_8: 21300024
+      Blue-GoldP_2k_21: 21300042
+      Blue-GoldP_2k_19: 21300038
+      Blue-GoldP_2k_6: 21300012
+      Blue-GoldP_2k_14: 21300014
+      Blue-GoldP_2k_16: 21300030
+      Blue-GoldP_2k_11: 21300016
+      Blue-GoldP_2k_3: 21300046
+      Blue-GoldP_2k_7: 21300062
+      Blue-GoldP_2k_15: 21300060
+      Blue-GoldP_2k_1: 21300052
+      Blue-GoldP_2k_10: 21300020
+      Blue-GoldP_2k_17: 21300054
+      Blue-GoldP_2k_5: 21300050
+      Blue-GoldP_2k_9: 21300018
+      Blue-GoldP_2k_13: 21300064
+      Blue-GoldP_2k_0: 21300000
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

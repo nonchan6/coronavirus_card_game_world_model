@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,9 +105,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -634,6 +635,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BronzeP_2k_1: 21300010
+      BronzeP_2k_20: 21300044
+      BronzeP_2k_6: 21300012
+      BronzeP_2k_5: 21300008
+      BronzeP_2k_19: 21300032
+      BronzeP_2k_9: 21300018
+      BronzeP_2k_15: 21300042
+      BronzeP_2k_12: 21300026
+      BronzeP_2k_16: 21300030
+      BronzeP_2k_0: 21300000
+      BronzeP_2k_13: 21300028
+      BronzeP_2k_3: 21300004
+      BronzeP_2k_2: 21300002
+      BronzeP_2k_10: 21300022
+      BronzeP_2k_11: 21300024
+      BronzeP_2k_8: 21300014
+      BronzeP_2k_4: 21300006
+      BronzeP_2k_14: 21300034
+      BronzeP_2k_17: 21300036
+      BronzeP_2k_7: 21300016
+      BronzeP_2k_18: 21300038
+      BronzeP_2k_21: 21300046
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

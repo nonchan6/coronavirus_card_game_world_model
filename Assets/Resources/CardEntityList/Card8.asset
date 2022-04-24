@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Card8
   m_EditorClassIdentifier: 
   name: Distance
+  label: 7
   hp: 1
   at: 1
   cost: 5
   icon: {fileID: 21300000, guid: cfbadf25ccd616e419fb434cf110c218, type: 3}
   ability: 0
-  spell: 6
+  spell: 0

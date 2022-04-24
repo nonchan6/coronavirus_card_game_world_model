@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -664,6 +665,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Skill_05_color2 14: 242254879788492178
+      Skill_05_color2 5: 3558040813021912113
+      Skill_05_color2 0: -6534298382257920317
+      Skill_05_color2 11: -1155563368525320455
+      Skill_05_color2 13: 1692234805581245391
+      Skill_05_color2 10: 757452061931842154
+      Skill_05_color2 22: -8768314911064078994
+      Skill_05_color2 12: -1314960583679256839
+      Skill_05_color2 4: -4792634938067552002
+      Skill_05_color2 17: -247909315512299509
+      Skill_05_color2 19: -2814870477846564618
+      Skill_05_color2 8: 6406539965771176162
+      Skill_05_color2 15: 4510065612937071525
+      Skill_05_color2 20: -4082870064089272487
+      Skill_05_color2 7: 8037574098297498262
+      Skill_05_color2 18: 2773863163318325878
+      Skill_05_color2 1: -2914623773086213363
+      Skill_05_color2 3: -9118068900867038499
+      Skill_05_color2 16: 4962737610196902884
+      Skill_05_color2 23: -7323329157254163427
+      Skill_05_color2 6: -1760505315807303227
+      Skill_05_color2 21: -845189005904034256
+      Skill_05_color2 2: -4890905192993386007
+      Skill_05_color2 9: 8166524614316321712
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

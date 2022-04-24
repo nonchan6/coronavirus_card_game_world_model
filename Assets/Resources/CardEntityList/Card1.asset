@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Card1
   m_EditorClassIdentifier: 
   name: Kuma
+  label: 0
   hp: 3
   at: 1
   cost: 1
   icon: {fileID: 21300000, guid: cb8f207ab3dc97d4783b128742f03b82, type: 3}
-  ability: 1
+  ability: 0
   spell: 0

@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,9 +123,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -652,6 +653,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LollipopP_4k_0: 21300000
+      LollipopP_4k_4: 21300006
+      LollipopP_4k_15: 21300030
+      LollipopP_4k_8: 21300014
+      LollipopP_4k_21: 21300058
+      LollipopP_4k_1: 21300010
+      LollipopP_4k_13: 21300026
+      LollipopP_4k_3: 21300004
+      LollipopP_4k_6: 21300012
+      LollipopP_4k_5: 21300008
+      LollipopP_4k_18: 21300036
+      LollipopP_4k_9: 21300018
+      LollipopP_4k_10: 21300020
+      LollipopP_4k_2: 21300002
+      LollipopP_4k_16: 21300032
+      LollipopP_4k_17: 21300034
+      LollipopP_4k_19: 21300050
+      LollipopP_4k_20: 21300054
+      LollipopP_4k_12: 21300024
+      LollipopP_4k_14: 21300052
+      LollipopP_4k_7: 21300016
+      LollipopP_4k_11: 21300022
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
